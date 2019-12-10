@@ -13,7 +13,7 @@ There are four options for constructing a ListView:
 - Custom template loadingWidget, you can customize the loading widget when requesting a list of services.
 
 # DEMO
-![DEMO](https://github.com/chudongvip/super_infinite_listview/demo.gif)
+![DEMO](https://github.com/chudongvip/super_infinite_listview/blob/master/demo.gif)
 
 # Getting Started
 
